@@ -32,7 +32,7 @@ Visualize the training/validation loss and accuracy over epochs to understand th
 Developed By : Saravana Kumar S
 Reg No : 212221230088
 ```
-```
+```python
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
